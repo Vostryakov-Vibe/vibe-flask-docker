@@ -1,3 +1,7 @@
+![Main Screen](demo_flask_docker.jpg)
+![Main Screen](demo_flask_docker1.jpg)
+![Main Screen](demo_flask_docker2.jpg)
+
 # 🐳 VPe02: Vostryakov-Vibe Docker Session
 
 Проект по контейнеризации микросервиса на Python/Flask. Реализован в связке **Windows + WSL 2 + Docker Desktop**. 
