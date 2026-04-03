@@ -1,4 +1,4 @@
-# 🐳 VPe02: Vostryakov-Vibe Docker Session (v1.3)
+# 🐳 VPe02: Vostryakov-Vibe Docker Session
 
 Проект по контейнеризации микросервиса на Python/Flask. Реализован в связке **Windows + WSL 2 + Docker Desktop**. 
 
