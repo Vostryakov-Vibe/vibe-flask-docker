@@ -1,0 +1,8 @@
+
+services:
+  web-app:
+    build: .
+    container_name: vpe02-container
+    ports:
+      - "5000:5000"
+    restart: always
